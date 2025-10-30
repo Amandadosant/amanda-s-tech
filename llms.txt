@@ -1,0 +1,4 @@
+## Pages
+- [Expertise - Digital Product Expert](/expertise): Digital product expert in the Netherlands, specializing in SaaS strategy, design thinking, and go-to-market execution.
+- [Insights & Articles - Amanda's Portfolio](/insights): A collection of thoughts, analyses, and case studies on building impactful digital products.
+- [Scaling a SaaS Platform: Lessons from Real Growth Stories](/scalingsaas): Learn how top SaaS companies like Slack, HubSpot, Notion, and Canva scaled their platforms sustainably through product clarity, team design, and systems thinking.
